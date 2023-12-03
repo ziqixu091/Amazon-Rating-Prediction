@@ -70,7 +70,6 @@ if __name__ == '__main__':
     )
 
     batch_size = 48
-    epochs = 3
     args = TrainingArguments(
         f"{model_name}-finetuned",
         evaluation_strategy = "epoch",
