@@ -1,0 +1,6 @@
+/dataset
+/downsampled_dataset
+/dataset_huggingface_full
+/Amazon*
+/best_model
+/__pycache__/
